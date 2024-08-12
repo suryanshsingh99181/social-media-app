@@ -1,0 +1,29 @@
+.app-container{
+    display: flex;
+}
+
+.content{
+    width: 100%;
+}
+
+.sidebar{
+    min-height: 800px;
+}
+
+.hastag{
+    margin: 0px 3px;
+}
+
+.reactions{
+    margin: 5px;
+}
+
+.create-post{
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 10%;
+}
+
+.spinner{
+    margin-top: 50px;
+}
